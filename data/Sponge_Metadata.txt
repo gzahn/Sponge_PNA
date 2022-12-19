@@ -1,0 +1,96 @@
+SampleID	Sample	Species_name	Genus	Sp	PNA	Location	Anatomy	DNA-origin	NanoDrop	Sp_PNA	Extraction_date	Keep
+#q2:types	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	Numeric	categorical	categorical	categorical
+ChoNu1	ChoNu1	Chondrilla_nucula	Chondrilla	ChoNu	N	Grotta del Mago	Whole	DNA_GF_CN1	20.7	ChoNuN	July_2018	Keep
+ChoNu1-PNA	ChoNu1	Chondrilla_nucula	Chondrilla	ChoNu	Y	Grotta del Mago	Whole	DNA_GF_CN1	20.7	ChoNuY	July_2018	Keep
+ChoNu2	ChoNu2	Chondrilla_nucula	Chondrilla	ChoNu	N	Grotta del Mago	Whole	DNA_SA_CN3	231.2	ChoNuN	July_2018	Keep
+ChoNu2-PNA	ChoNu2	Chondrilla_nucula	Chondrilla	ChoNu	Y	Grotta del Mago	Whole	DNA_SA_CN3	231.2	ChoNuY	July_2018	Keep
+ChoNu3	ChoNu3	Chondrilla_nucula	Chondrilla	ChoNu	N	Grotta del Mago	Whole	DNA_GM_CN3	90.9	ChoNuN	July_2018	Keep
+ChoNu3-PNA	ChoNu3	Chondrilla_nucula	Chondrilla	ChoNu	Y	Grotta del Mago	Whole	DNA_GM_CN3	90.9	ChoNuY	July_2018	Keep
+ChoNu4	ChoNu4	Chondrilla_nucula	Chondrilla	ChoNu	N	Grotta del Mago	Whole	DNA_GM_CN5	4	ChoNuN	July_2018	Keep
+ChoNu4-PNA	ChoNu4	Chondrilla_nucula	Chondrilla	ChoNu	Y	Grotta del Mago	Whole	DNA_GM_CN5	4	ChoNuY	July_2018	Keep
+ChoNu5	ChoNu5	Chondrilla_nucula	Chondrilla	ChoNu	N	Grotta del Mago	Whole	DNA_GF_CN3	94	ChoNuN	July_2018	Keep
+ChoNu5-PNA	ChoNu5	Chondrilla_nucula	Chondrilla	ChoNu	Y	Grotta del Mago	Whole	DNA_GF_CN3	94	ChoNuY	July_2018	Keep
+ChoRe1	ChoRe1	Chondrosia_reniformis	Chondrosia	ChoRe	N	Grotta del Mago	Whole	DNA_GF_CR2	227.7	ChoReN	July_2018	Keep
+ChoRe1-PNA	ChoRe1	Chondrosia_reniformis	Chondrosia	ChoRe	Y	Grotta del Mago	Whole	DNA_GF_CR2	227.7	ChoReY	July_2018	Keep
+ChoRe2	ChoRe2	Chondrosia_reniformis	Chondrosia	ChoRe	N	Grotta del Mago	Whole	DNA_CCO_CR1	221.6	ChoReN	July_2018	Keep
+ChoRe2-PNA	ChoRe2	Chondrosia_reniformis	Chondrosia	ChoRe	Y	Grotta del Mago	Whole	DNA_CCO_CR1	221.6	ChoReY	July_2018	Keep
+ChoRe3	ChoRe3	Chondrosia_reniformis	Chondrosia	ChoRe	N	Grotta del Mago	Whole	DNA_GM_CR4	268.5	ChoReN	July_2018	Keep
+ChoRe3-PNA	ChoRe3	Chondrosia_reniformis	Chondrosia	ChoRe	Y	Grotta del Mago	Whole	DNA_GM_CR4	268.5	ChoReY	July_2018	Keep
+ChoRe4	ChoRe4	Chondrosia_reniformis	Chondrosia	ChoRe	N	Grotta del Mago	Whole	DNA_GM_CR2	391	ChoReN	July_2018	Keep
+ChoRe4-PNA	ChoRe4	Chondrosia_reniformis	Chondrosia	ChoRe	Y	Grotta del Mago	Whole	DNA_GM_CR2	391	ChoReY	July_2018	Keep
+ChoRe5	ChoRe5	Chondrosia_reniformis	Chondrosia	ChoRe	N	Grotta del Mago	Whole	DNA_CAC_CR3	285.8	ChoReN	July_2018	Keep
+ChoRe5-Bad	ChoRe5	Chondrosia_reniformis	Chondrosia	ChoRe	N	Grotta del Mago	Whole	DNA_CAC_CR3	285.8	ChoReN	July_2018	Bad
+ChoRe5-PNA	ChoRe5	Chondrosia_reniformis	Chondrosia	ChoRe	Y	Grotta del Mago	Whole	DNA_CAC_CR3	285.8	ChoReY	July_2018	Keep
+CraC1	CraC1	Crambe_crambe	Crambe	CraC	N	Grotta del Mago	Whole	DNA_CAC_CC1	84.1	CraCN	July_2018	Keep
+CraC1-Bad	CraC1	Crambe_crambe	Crambe	CraC	N	Grotta del Mago	Whole	DNA_CAC_CC1	84.1	CraCN	July_2018	Bad
+CraC1-PNA	CraC1	Crambe_crambe	Crambe	CraC	Y	Grotta del Mago	Whole	DNA_CAC_CC1	84.1	CraCY	July_2018	Keep
+CraC2	CraC2	Crambe_crambe	Crambe	CraC	N	Grotta del Mago	Whole	DNA_CAC_CC5	70	CraCN	July_2018	Keep
+CraC2-PNA	CraC2	Crambe_crambe	Crambe	CraC	Y	Grotta del Mago	Whole	DNA_CAC_CC5	70	CraCY	July_2018	Keep
+CraC3	CraC3	Crambe_crambe	Crambe	CraC	N	Grotta del Mago	Whole	DNA_GM_CC2	63.3	CraCN	July_2018	Keep
+CraC3-PNA	CraC3	Crambe_crambe	Crambe	CraC	Y	Grotta del Mago	Whole	DNA_GM_CC2	63.3	CraCY	July_2018	Keep
+CraC4	CraC4	Crambe_crambe	Crambe	CraC	N	Grotta del Mago	Whole	DNA_VU_CC5	71.8	CraCN	July_2018	Keep
+CraC4-PNA	CraC4	Crambe_crambe	Crambe	CraC	Y	Grotta del Mago	Whole	DNA_VU_CC5	71.8	CraCY	July_2018	Keep
+CraC5	CraC5	Crambe_crambe	Crambe	CraC	N	Grotta del Mago	Whole	DNA_CAC_CC3	24.3	CraCN	July_2018	Keep
+CraC5-PNA	CraC5	Crambe_crambe	Crambe	CraC	Y	Grotta del Mago	Whole	DNA_CAC_CC3	24.3	CraCY	July_2018	Keep
+GeoEx1	GeoEx1	Geodia_cydonium	Geodia	GeoEx	N	Secca Fumosa	External	GeoEx-1	32.7	GeoExN	Jan_2021	Keep
+GeoEx1-PNA	GeoEx1	Geodia_cydonium	Geodia	GeoEx	Y	Secca Fumosa	External	GeoEx-1	32.7	GeoExY	Jan_2021	Keep
+GeoEx2	GeoEx2	Geodia_cydonium	Geodia	GeoEx	N	Secca Fumosa	External	GeoEx-2	16.8	GeoExN	Jan_2021	Keep
+GeoEx2-PNA	GeoEx2	Geodia_cydonium	Geodia	GeoEx	Y	Secca Fumosa	External	GeoEx-2	16.8	GeoExY	Jan_2021	Keep
+GeoEx3	GeoEx3	Geodia_cydonium	Geodia	GeoEx	N	Secca Fumosa	External	GeoEx-3	10.1	GeoExN	Jan_2021	Keep
+GeoEx3-PNA	GeoEx3	Geodia_cydonium	Geodia	GeoEx	Y	Secca Fumosa	External	GeoEx-3	10.1	GeoExY	Jan_2021	Keep
+GeoEx4	GeoEx4	Geodia_cydonium	Geodia	GeoEx	N	Secca Fumosa	External	GeoEx-4	16.2	GeoExN	Jan_2021	Keep
+GeoEx4-PNA	GeoEx4	Geodia_cydonium	Geodia	GeoEx	Y	Secca Fumosa	External	GeoEx-4	16.2	GeoExY	Jan_2021	Keep
+GeoEx5	GeoEx5	Geodia_cydonium	Geodia	GeoEx	N	Secca Fumosa	External	GeoEx-5	11.9	GeoExN	Jan_2021	Keep
+GeoEx5-PNA	GeoEx5	Geodia_cydonium	Geodia	GeoEx	Y	Secca Fumosa	External	GeoEx-5	11.9	GeoExY	Jan_2021	Keep
+GeoIn1	GeoIn1	Geodia_cydonium	Geodia	GeoIn	N	Secca Fumosa	Internal	GeoIn-1	101.3	GeoInN	Jan_2021	Keep
+GeoIn1-PNA	GeoIn1	Geodia_cydonium	Geodia	GeoIn	Y	Secca Fumosa	Internal	GeoIn-1	101.3	GeoInY	Jan_2021	Keep
+GeoIn2	GeoIn2	Geodia_cydonium	Geodia	GeoIn	N	Secca Fumosa	Internal	GeoIn-2	46.4	GeoInN	Jan_2021	Keep
+GeoIn2-PNA	GeoIn2	Geodia_cydonium	Geodia	GeoIn	Y	Secca Fumosa	Internal	GeoIn-2	46.4	GeoInY	Jan_2021	Keep
+GeoIn3	GeoIn3	Geodia_cydonium	Geodia	GeoIn	N	Secca Fumosa	Internal	GeoIn-3	66.7	GeoInN	Jan_2021	Keep
+GeoIn3-PNA	GeoIn3	Geodia_cydonium	Geodia	GeoIn	Y	Secca Fumosa	Internal	GeoIn-3	66.7	GeoInY	Jan_2021	Keep
+GeoIn4	GeoIn4	Geodia_cydonium	Geodia	GeoIn	N	Secca Fumosa	Internal	GeoIn-4	87.7	GeoInN	Jan_2021	Keep
+GeoIn4-PNA	GeoIn4	Geodia_cydonium	Geodia	GeoIn	Y	Secca Fumosa	Internal	GeoIn-4	87.7	GeoInY	Jan_2021	Keep
+GeoIn5	GeoIn5	Geodia_cydonium	Geodia	GeoIn	N	Secca Fumosa	Internal	GeoIn-5	46.3	GeoInN	Jan_2021	Keep
+GeoIn5-PNA	GeoIn5	Geodia_cydonium	Geodia	GeoIn	Y	Secca Fumosa	Internal	GeoIn-5	46.3	GeoInY	Jan_2021	Keep
+H2O	H2O	WaterBlank	Water	H2O	N	Lab	Aliquote	H2O	0	H2ON	Jun_2021	Blank
+H2O-PNA	H2O	WaterBlank	Water	H2O	Y	Lab	Aliquote	H2O	0	H2OY	Jun_2022	Blank
+HalMe1	HalMe1	Haliclona_mediterraena	Haliclona	HalMe	N	Castello Aragonese	Whole	HalMe-1	29.1	HalMeN	Jan_2021	Keep
+HalMe1-PNA	HalMe1	Haliclona_mediterranea	Haliclona	HalMe	Y	Castello Aragonese	Whole	HalMe-1	29.1	HalMeY	Jan_2021	Keep
+HalMe2	HalMe2	Haliclona_mediterraena	Haliclona	HalMe	N	Castello Aragonese	Whole	HalMe-2	21.2	HalMeN	Jan_2021	Keep
+HalMe2-PNA	HalMe2	Haliclona_mediterranea	Haliclona	HalMe	Y	Castello Aragonese	Whole	HalMe-2	21.2	HalMeY	Jan_2021	Keep
+HalMe3	HalMe3	Haliclona_mediterraena	Haliclona	HalMe	N	Castello Aragonese	Whole	HalMe-3	37.6	HalMeN	Jan_2021	Keep
+HalMe3-PNA	HalMe3	Haliclona_mediterranea	Haliclona	HalMe	Y	Castello Aragonese	Whole	HalMe-3	37.6	HalMeY	Jan_2021	Keep
+HalMe4	HalMe4	Haliclona_mediterraena	Haliclona	HalMe	N	Castello Aragonese	Whole	HalMe_1-2	18.6	HalMeN	Jan_2021	Keep
+HalMe4-PNA	HalMe4	Haliclona_mediterranea	Haliclona	HalMe	Y	Castello Aragonese	Whole	HalMe_1-2	18.6	HalMeY	Jan_2021	Keep
+HalMe5	HalMe5	Haliclona_mediterraena	Haliclona	HalMe	N	Castello Aragonese	Whole	HalMe_2-3	191.3	HalMeN	Jan_2021	Keep
+HalMe5-PNA	HalMe5	Haliclona_mediterranea	Haliclona	HalMe	Y	Castello Aragonese	Whole	HalMe_2-3	191.3	HalMeY	Jan_2021	Keep
+Maga1	Maga1	Crambe_crambe_Maga	Crambe	CraMa	N	Grotta del Mago	Whole	CraMa-1	10.7	CraMaN	Jan_2021	Keep
+Maga1-PNA	Maga1	Crambe_crambe_Maga	Crambe	CraMa	Y	Grotta del Mago	Whole	CraMa-1	10.7	CraMaY	Jan_2021	Keep
+Maga2	Maga2	Crambe_crambe_Maga	Crambe	CraMa	N	Grotta del Mago	Whole	CraMa-2	27.7	CraMaN	Jan_2021	Keep
+Maga2-PNA	Maga2	Crambe_crambe_Maga	Crambe	CraMa	Y	Grotta del Mago	Whole	CraMa-2	27.7	CraMaY	Jan_2021	Keep
+Maga3	Maga3	Crambe_crambe_Maga	Crambe	CraMa	N	Grotta del Mago	Whole	CraMa-3	15.9	CraMaN	Jan_2021	Keep
+Maga3-PNA	Maga3	Crambe_crambe_Maga	Crambe	CraMa	Y	Grotta del Mago	Whole	CraMa-3	15.9	CraMaY	Jan_2021	Keep
+Maga4	Maga4	Crambe_crambe_Maga	Crambe	CraMa	N	Grotta del Mago	Whole	CraMa_1-2	27.4	CraMaN	Jan_2021	Keep
+Maga4-PNA	Maga4	Crambe_crambe_Maga	Crambe	CraMa	Y	Grotta del Mago	Whole	CraMa_1-2	27.4	CraMaY	Jan_2021	Keep
+Maga5	Maga5	Crambe_crambe_Maga	Crambe	CraMa	N	Grotta del Mago	Whole	CraMa_2-3	28.9	CraMaN	Jan_2021	Keep
+Maga5-PNA	Maga5	Crambe_crambe_Maga	Crambe	CraMa	Y	Grotta del Mago	Whole	CraMa_2-3	28.9	CraMaY	Jan_2021	Keep
+PetFi1	PetFi1	Petrosia_ficiformis	Petrosia	PetFi	N	Grotta del Mago	Whole	DNA_CCO_PF3	212.7	PetFiN	July_2018	Keep
+PetFi1-PNA	PetFi1	Petrosia_ficiformis	Petrosia	PetFi	Y	Grotta del Mago	Whole	DNA_CCO_PF3	212.7	PetFiY	July_2018	Keep
+PetFi2	PetFi2	Petrosia_ficiformis	Petrosia	PetFi	N	Grotta del Mago	Whole	DNA_GM_PF4	205.5	PetFiN	July_2018	Keep
+PetFi2-PNA	PetFi2	Petrosia_ficiformis	Petrosia	PetFi	Y	Grotta del Mago	Whole	DNA_GM_PF4	205.5	PetFiY	July_2018	Keep
+PetFi3	PetFi3	Petrosia_ficiformis	Petrosia	PetFi	N	Grotta del Mago	Whole	DNA_SA_PF5	220.9	PetFiN	July_2018	Keep
+PetFi3-PNA	PetFi3	Petrosia_ficiformis	Petrosia	PetFi	Y	Grotta del Mago	Whole	DNA_SA_PF5	220.9	PetFiY	July_2018	Keep
+PetFi4	PetFi4	Petrosia_ficiformis	Petrosia	PetFi	N	Grotta del Mago	Whole	DNA_GM_PFB5	262.4	PetFiN	July_2018	Keep
+PetFi4-PNA	PetFi4	Petrosia_ficiformis	Petrosia	PetFi	Y	Grotta del Mago	Whole	DNA_GM_PFB5	262.4	PetFiY	July_2018	Keep
+PetFi5	PetFi5	Petrosia_ficiformis	Petrosia	PetFi	N	Grotta del Mago	Whole	DNA_CAC_PF3	164.9	PetFiN	July_2018	Keep
+PetFi5-PNA	PetFi5	Petrosia_ficiformis	Petrosia	PetFi	Y	Grotta del Mago	Whole	DNA_GM_PFB1	164.9	PetFiY	July_2018	Keep
+SpiCu1	SpiCu1	Spirastrella_cunctatrix	Spirastrella	SpiCu	N	Grotta del Mago	Whole	SpiCu-1	15	SpiCuN	Jan_2021	Keep
+SpiCu1-PNA	SpiCu1	Spirastrella_cunctatrix	Spirastrella	SpiCu	Y	Grotta del Mago	Whole	SpiCu-1	15	SpiCuY	Jan_2021	Keep
+SpiCu2	SpiCu2	Spirastrella_cunctatrix	Spirastrella	SpiCu	N	Grotta del Mago	Whole	SpiCu-2	5.3	SpiCuN	Jan_2021	Keep
+SpiCu2-PNA	SpiCu2	Spirastrella_cunctatrix	Spirastrella	SpiCu	Y	Grotta del Mago	Whole	SpiCu-2	5.3	SpiCuY	Jan_2021	Keep
+SpiCu3	SpiCu3	Spirastrella_cunctatrix	Spirastrella	SpiCu	N	Grotta del Mago	Whole	SpiCu-3	4.9	SpiCuN	Jan_2021	Keep
+SpiCu3-PNA	SpiCu3	Spirastrella_cunctatrix	Spirastrella	SpiCu	Y	Grotta del Mago	Whole	SpiCu-3	4.9	SpiCuY	Jan_2021	Keep
+SpiCu4	SpiCu4	Spirastrella_cunctatrix	Spirastrella	SpiCu	N	Grotta del Mago	Whole	SpiCu_1-2	12	SpiCuN	Jan_2021	Keep
+SpiCu4-PNA	SpiCu4	Spirastrella_cunctatrix	Spirastrella	SpiCu	Y	Grotta del Mago	Whole	SpiCu_1-2	12	SpiCuY	Jan_2021	Keep
+SpiCu5	SpiCu5	Spirastrella_cunctatrix	Spirastrella	SpiCu	N	Grotta del Mago	Whole	SpiCu_2-3	7.5	SpiCuN	Jan_2021	Keep
+SpiCu5-PNA	SpiCu5	Spirastrella_cunctatrix	Spirastrella	SpiCu	Y	Grotta del Mago	Whole	SpiCu_2-3	7.5	SpiCuY	Jan_2021	Keep
